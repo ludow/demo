@@ -1,2 +1,4 @@
-<?php phpinfo(); ?>
-<?php echo "coin" ?>
+<?php 
+// ta race
+phpinfo(); 
+?>
